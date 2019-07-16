@@ -5,6 +5,7 @@ An OpenStack [collectd](http://www.collectd.org/) plugin which users can use to 
 ## Installation
 
 * Checkout this repository somewhere on your system accessible by collectd. The suggested location is `/usr/share/collectd/`
+* Move collectd.conf to /etc/collectd/
 * Configure the plugin (see below)
 * Restart collectd
 
